@@ -1,0 +1,10 @@
+name: TopMoneyUI
+main: IrwanS\Topmoney\Main
+version: 0.1
+api: [3.0.0, 4.0.0]
+author: IrwanS
+
+commands:
+    topmoney:
+     usage: /topmoney
+     description: TopMoney on Server!
